@@ -1,4 +1,9 @@
+###### Copyright (c) - 2020 - Tonena Digital Services
+
+---
+
 ##### Brainstorm
+
 Se Freedom pode ter mais que 100k de usuários simultaneos, então a comunicação entre 100k dispositivos clientes deve ser eficaz e eficiente.
 
 Proposta de mecanismo pra troca de msgs: gRPC.
@@ -34,17 +39,16 @@ Framework:frontend: Flutter (dart)
 
 ---
 
--Troca de mensagens: gRPC;
--Sem gravar/persistir sessão do usuário (MVP);
--Sessão anonima;
--Framework:backend: Quarkus (java)
--Framework:frontend: Flutter (dart)
+* Troca de mensagens: gRPC;
+* Sem gravar/persistir sessão do usuário (MVP);
+* Sessão anonima;
+* Framework:backend: Quarkus (java)
+* Framework:frontend: Flutter (dart)
 
 ---
 
-Glossário:
+##### Glossário:
 
--Eficaz: Que funciona.
--Eficiência: Que funciona bem.
--Sessão: Quando o usuário ENTRA NUMA SALA, uma SESSÃO EFÊMERA é criada. Efêmera no sentido de que a SESSÃO PERDURA ATÉ O USUÁRIO SAIR DA SALA.
-
+* Eficaz: Que funciona.
+* Eficiência: Que funciona bem.
+* Sessão: Quando o usuário ENTRA NUMA SALA, uma SESSÃO EFÊMERA é criada. Efêmera no sentido de que a SESSÃO PERDURA ATÉ O USUÁRIO SAIR DA SALA.
