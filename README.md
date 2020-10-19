@@ -1,4 +1,4 @@
-###### Copyright (c) 2020 - Tonena Digital Services
+﻿###### Copyright (c) 2020 - Tonena Digital Services
 
 ---
 
@@ -12,7 +12,7 @@ R: Liberdade. Você tem a liberdade de fazer o que quiser (o que o App permitir)
 
 O App será pago?
 R: Não sabemos exatamente ainda como monetizar o App.
-Geralmente um App ou é grátis e ganha dinheiro com anuncios, ou é pago sem anuncios.
+Geralmente um App ou é grátis e ganha dinheiro com anúncios, ou é pago sem anúncios.
 
 O App é seguro?
 R: Será seguro, mas nestes termos: Você como utilizador poderá:
