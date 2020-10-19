@@ -1,4 +1,4 @@
-﻿###### Copyright (c) 2020 - Tonena Digital Services
+###### Copyright (c) 2020 - Tonena Digital Services
 
 ---
 
