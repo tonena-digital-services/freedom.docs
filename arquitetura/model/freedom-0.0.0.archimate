@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:model xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" name="freedom.architecture" id="id-67a3db99c6c2407d8cbcf00b5a08b635" version="4.6.0">
+  <folder name="Strategy" id="id-8c92cc5051444c86892bf1a382b09f58" type="strategy">
+    <documentation>We are enlayering the App.
+
+Manutainability:
+	1 - system 
+			monitoring
+			
+   	2 - business
+	3 - service
+			support the business</documentation>
+  </folder>
+  <folder name="Business" id="id-5ec4281cd3734671b3079ebb98a95382" type="business"/>
+  <folder name="Application" id="id-24cbc248078c4eb08a27c3fd05881e9e" type="application"/>
+  <folder name="Technology &amp; Physical" id="id-56351b1c3ac540dc825da5b2b77378f5" type="technology"/>
+  <folder name="Motivation" id="id-a170d8f8b5af4ad4b2a55272bed375ed" type="motivation"/>
+  <folder name="Implementation &amp; Migration" id="id-74f312d054f54916a087304c5ff1c0f1" type="implementation_migration"/>
+  <folder name="Other" id="id-8329afd6d1844b7787dac36f5c9920b0" type="other"/>
+  <folder name="Relations" id="id-1dd6a325b529458080fdd41e1abebc6e" type="relations"/>
+  <folder name="Views" id="id-858a5d6844014decbd2623f4ce6c2761" type="diagrams">
+    <element xsi:type="archimate:ArchimateDiagramModel" name="Default View" id="id-c50c64d2d0a54f2ca58d4dbd50b98526"/>
+  </folder>
+</archimate:model>
